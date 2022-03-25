@@ -45,7 +45,7 @@ int main()
     setlocale(LC_ALL, "Rus");
     int size;
 
-    cout << "\t\t Введите количество числа в массиве: ";
+    cout << "\t\t Введите количество чисел в массиве: ";
     cin >> size;
 
     cout << "Введите числа: ";
