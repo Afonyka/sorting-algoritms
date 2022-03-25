@@ -2,7 +2,7 @@
 #include <ctime>
 using namespace std;
 
-const unsigned int DS = 7;
+const unsigned int DS = 8;
 int Desk[DS][DS];
 int Step[8][2] = {{1,-2}, {2,-1}, {2,1}, {1,2}, {-1,2}, {-2,1}, {-2,-1}, {-1,-2}};
 int N;
